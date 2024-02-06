@@ -6,9 +6,9 @@ Configuracion basica de un proyecto Spring
 
 Se utilizaron las siguientes caracteristicas para instalar el repositorio:
 
-    1. Se uso ![Spring Initializr](https://start.spring.io) para crear el arquetipo de proyecto
+    1. Se uso [Spring Initializr](https://start.spring.io/) para crear el arquetipo de proyecto
 
-    ![Spring Initializr](/docs/images/spring.png)
+![Spring Initializr](/docs/images/spring.png)
 
     2. Version de Java: 21
 
